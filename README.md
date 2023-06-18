@@ -25,7 +25,7 @@ The code provided in this repository reads the dataset, preprocesses the data, a
 ## Usage
 
 1. Clone this repository:
-git clone [repository-url]
+git clone [repository-url](https://github.com/yn785/Visualization-of-Electric-power-selling-price-index-in-Canada.git)
 
 2. Run the code using a Python IDE or Jupyter Notebook.
 
