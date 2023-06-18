@@ -1,6 +1,6 @@
 # Electric Power Selling Price Index in Canada Visualization
 
-This project focuses on visualizing the Electric Power Selling Price Index in Canada using data from Statistics Canada. The dataset used for this project is Table 18-10-0204-01, which provides monthly electric power selling price indices.
+This project focuses on visualizing the Electric Power Selling Price Index in Canada using data from Statistics Canada. The dataset used for this project is file 18100204, which provides monthly electric power selling price indices.
 
 ## Dataset
 
@@ -14,9 +14,10 @@ To run the code and visualize the data, you need to have the following dependenc
 - seaborn
 - numpy
 - folium
+- scikit-learn
 
 You can install these dependencies using pip:
-pip install pandas seaborn numpy folium
+pip install pandas seaborn numpy folium scikit-learn
 
 ## Code
 
@@ -29,7 +30,7 @@ git clone [repository-url](https://github.com/yn785/Visualization-of-Electric-po
 
 2. Run the code using a Python IDE or Jupyter Notebook.
 
-3. The code will generate visualizations, including line plots and heatmaps, showcasing the electric power selling price indices in Canada.
+3. The code will generate visualizations, including line plots and heatmaps, showcasing the electric power selling price indices in Canada. It will also perform linear regression analysis to analyze trends and make predictions.
 
 ## Contributing
 
